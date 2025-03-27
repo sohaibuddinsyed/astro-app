@@ -13,6 +13,6 @@
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.3.0",
     "astro": "^5.5.5",
-    "astrojs-node-aws-amplify": "^7.0.1"
+    "astro-aws-amplify": "^0.1.0"
   }
 }
